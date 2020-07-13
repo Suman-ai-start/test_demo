@@ -2,4 +2,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - bash cicd/pipeline.sh
+      - echo "cicd/pipeline.sh"
